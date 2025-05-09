@@ -21,7 +21,9 @@ Secondly, make model predictions:
 Finally,run 'data_nudging.py' to perform nudging correction.
 
 ## Code reference
+
 https://github.com/leelew/HybridHydro/LICENSE
+
 https://github.com/surajp92/LSTM_Nudging
 
 ## Dataset
@@ -31,6 +33,6 @@ The Daily 0.05°×0.05° Land Surface Soil Moisture Dataset and digital elevatio
 ## Citation
 NOTES: The paper is not accepted yet. 
 In case you use QiLian_ConvLSTM_Nudging in your research or work, please cite this GitHub codes:
+https://github.com/qiqi620/QiLian_ConvLSTM_Nudging
 
-# [License](https://github.com/qiqi620/QiLian_ConvLSTM_Nudging/LICENSE)
 Copyright (c) 2025, Qian Xiao
